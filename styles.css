@@ -38,11 +38,20 @@ border-radius: 25%;
 .side-by-side{
   display: -webkit-flex;
   display: flex;
+  padding: 10px;
+}
+
+.side-by-side-adulthood{
+  position: absolute;
+  height: auto;
+  width: auto;
+  padding: 10px;
+  display: -webkit-flex;
+  display: flex;
 }
 
 .image-with-title{
   text-align: center;
-  height: 200px;
   width: 200px;
 }
 
